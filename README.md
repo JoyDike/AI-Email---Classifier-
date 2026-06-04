@@ -54,4 +54,4 @@ Receive Incoming Email (Gmail Trigger)
 - Natural language processing
 
 ## Workflow Preview
-![AI Email Classifier](email_classifier.jpg)
+![AI Email Classifier](email_classifier.png)
