@@ -54,4 +54,4 @@ Receive Incoming Email (Gmail Trigger)
 - Natural language processing
 
 ## Workflow Preview
-![AI Email Classifier](email_classifier.png)
+[![AI Email Classifier](email_classifier.png)](https://github.com/JoyDike/AI-Email---Classifier-/blob/main/email_classifier.png?raw=true)
